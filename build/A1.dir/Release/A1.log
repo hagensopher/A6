@@ -1,0 +1,32 @@
+﻿  Building Custom Rule C:/Users/hagen/Desktop/School Spring 2021/Graphics/A6/CMakeLists.txt
+  Camera.cpp
+  Image.cpp
+  Light.cpp
+  MatrixStack.cpp
+  Object.cpp
+C:\Users\hagen\Desktop\School Spring 2021\Graphics\A6\src\Object.h(50,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hagen\Desktop\School Spring 2021\Graphics\A6\src\Object.h(52,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hagen\Desktop\School Spring 2021\Graphics\A6\src\Object.h(54,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\Users\hagen\Desktop\School Spring 2021\Graphics\A6\src\Object.h(50,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hagen\Desktop\School Spring 2021\Graphics\A6\src\Object.h(52,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hagen\Desktop\School Spring 2021\Graphics\A6\src\Object.h(54,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hagen\Desktop\School Spring 2021\Graphics\A6\src\main.cpp(51,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hagen\Desktop\School Spring 2021\Graphics\A6\src\main.cpp(114,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hagen\Desktop\School Spring 2021\Graphics\A6\src\main.cpp(146,80): warning C4244: 'argument': conversion from 'T' to 'unsigned char', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\hagen\Desktop\School Spring 2021\Graphics\A6\src\main.cpp(146,69): warning C4244: 'argument': conversion from 'T' to 'unsigned char', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\hagen\Desktop\School Spring 2021\Graphics\A6\src\main.cpp(146,49): warning C4244: 'argument': conversion from 'T' to 'unsigned char', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  A1.vcxproj -> C:\Users\hagen\Desktop\School Spring 2021\Graphics\A6\build\Release\A1.exe

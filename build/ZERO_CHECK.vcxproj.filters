@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\hagen\Desktop\School Spring 2021\Graphics\A6\build\CMakeFiles\01d75f02c8b1e6bfeb10be2a32c22b17\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{ADFDFAF8-A2F2-3680-9F17-8D1E59844C92}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

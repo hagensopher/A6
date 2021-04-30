@@ -1,0 +1,10 @@
+^C:\USERS\HAGEN\DESKTOP\SCHOOL SPRING 2021\GRAPHICS\A6\BUILD\CMAKEFILES\01D75F02C8B1E6BFEB10BE2A32C22B17\GENERATE.STAMP.RULE
+setlocal
+"C:\Users\hagen\Desktop\School Spring 2021\Graphics\cmake-3.19.4-win64-x64\bin\cmake.exe" "-SC:/Users/hagen/Desktop/School Spring 2021/Graphics/A6" "-BC:/Users/hagen/Desktop/School Spring 2021/Graphics/A6/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/hagen/Desktop/School Spring 2021/Graphics/A6/build/A1.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
